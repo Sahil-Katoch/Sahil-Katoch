@@ -9,10 +9,10 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sahil-Katoch" alt="Sahil-Katoch" /></a> </p> -->
 <p align="left">
-- 🌱 I’m currently learning **C++, C#, AWS, .Net**
+- 🌱 I’m currently learning **C++, Rust, AWS**
 </p>
 <p align="left">
-- 💬 Ask me about **Python,Node,React,Rust,Linux,Microservices**
+- 💬 Ask me about **Python,Node,React,Linux,MySql**
 </p>
 <p align="left">
 - 📫 How to reach me **katochsahil9904@gmail.com**
@@ -20,7 +20,7 @@
 <h2 style = "font = 200px" align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/katoch-sahil-99y12m04d/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sahil-Katoch" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ishuthakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishuthakur" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/sahil9904/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahilkatoch" height="30" width="40" /></a>
 </p>
 
 <h2 style = "font = 200px" align="left">Languages and Tools:</h3>
